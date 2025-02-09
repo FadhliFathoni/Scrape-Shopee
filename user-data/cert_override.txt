@@ -1,0 +1,3 @@
+# PSM Certificate Override Settings file
+# This is a generated file!  Do not edit.
+www.facebook.com:443:	OID.2.16.840.1.101.3.4.2.1	5C:EF:50:69:07:7C:55:2F:7E:88:25:A0:3F:72:C5:2F:12:8D:7E:E0:40:D5:6E:85:15:E1:D6:8B:E8:AB:E2:A5	
