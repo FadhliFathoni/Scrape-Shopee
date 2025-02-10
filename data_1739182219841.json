@@ -1,0 +1,1445 @@
+{
+  "bff_meta": null,
+  "error": null,
+  "error_msg": null,
+  "data": {
+    "item": {
+      "item_id": 28754672975,
+      "shop_id": 574569274,
+      "item_status": "normal",
+      "status": 1,
+      "item_type": 0,
+      "reference_item_id": "",
+      "title": "Handgrip RCB HG55 Original 100%+ Jalu Stang ARM Bulat CNC Anti Karat Universal Untuk Semua Motor",
+      "image": "id-11134207-7r98o-lyo7h06kwrns2c",
+      "label_ids": [
+        844931086908638,
+        844931064601283,
+        1059154,
+        1059152,
+        1718093079,
+        822059908662278,
+        825465608497696,
+        837860934119952,
+        825465608492064,
+        825465608499232,
+        1000031,
+        1015914,
+        700190087,
+        1400285055,
+        1213641,
+        298643381,
+        1000741,
+        1948020499712534,
+        1428713,
+        1718087960,
+        700610229,
+        700610210,
+        700700063,
+        998056015,
+        298623321,
+        1993623,
+        1718093084,
+        298458396
+      ],
+      "is_adult": false,
+      "is_preview": false,
+      "flag": 196608,
+      "is_service_by_shopee": false,
+      "condition": 1,
+      "cat_id": 100641,
+      "has_low_fulfillment_rate": false,
+      "is_live_streaming_price": null,
+      "currency": "IDR",
+      "brand": "RCB",
+      "brand_id": 2244710,
+      "show_discount": 0,
+      "ctime": 1720255756,
+      "item_rating": {
+        "rating_star": 4.8074237840353735
+      },
+      "cb_option": 0,
+      "has_model_with_available_shopee_stock": false,
+      "shop_location": "",
+      "attributes": [
+        {
+          "name": "Produk Custom",
+          "value": "Ya",
+          "id": 101219,
+          "is_timestamp": false,
+          "brand_option": null,
+          "val_id": 7221,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": null
+        }
+      ],
+      "rich_text_description": null,
+      "invoice_option": null,
+      "is_category_failed": null,
+      "is_prescription_item": false,
+      "preview_info": null,
+      "show_prescription_feed": false,
+      "is_alcohol_product": false,
+      "is_infant_milk_formula_product": false,
+      "is_unavailable": false,
+      "is_partial_fulfilled": false,
+      "is_presale": false,
+      "is_presale_deposit_item": null,
+      "is_presale_deposit_made": null,
+      "description": "Paket Promo 2 in 1\nHandgrip RCB HG55 ORIGINAL 100%  + Jalu Stang ARM BULAT Full CNC ANTI KARAT\nHandgrip RCB Original\nBahan Rubber Tahan Panas dan Hujan \nWarna Tidak Pudar dan Tidak Licin Digunakan Saat Tangan Berkeringat atau Hujan\n\nJalu Stang ARM Original\nBahan Full Aluminium CNC \nWarna Tidak Pudar Dan ANTI KARAT\n\nStock Ready ya Guys\nSilahkan Di Order \nTerimakasih\n\nLEVI Motoshop\n\n\n\n#handgriprcb#handgriprcboriginal@handgriprcbjalu#handgriprcbhg55#handgripyamaha#handgriphonda#handgripkazze#handripkaze#handgripmotorbeat#handgripmotorvario#handgripmotormio#mio#vario#beat#nmax#pcx#aerox",
+      "categories": [
+        {
+          "catid": 100641,
+          "display_name": "Sepeda Motor",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 100756,
+          "display_name": "Aksesoris Sepeda Motor",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 101483,
+          "display_name": "Aksesoris Sepeda Motor Lainnya",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "fe_categories": [
+        {
+          "catid": 11043660,
+          "display_name": "Otomotif",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11043735,
+          "display_name": "Aksesoris Sepeda Motor",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11043746,
+          "display_name": "Aksesoris Sepeda Motor Lainnya",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "item_has_video": true,
+      "presale_dday_start_time": null,
+      "is_lowest_price_at_shopee": null,
+      "display_description_disclosure_rsku_redirection": null,
+      "models": [
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb + Arm Biru",
+          "promotion_id": 557757019734016,
+          "price": 10400000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 8712,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                },
+                {
+                  "location_id": "ID14461SOC",
+                  "available_stock": 1,
+                  "fulfilment_type": 4,
+                  "address_id": 0,
+                  "allocated_stock": null
+                },
+                {
+                  "location_id": "ID182SOC",
+                  "available_stock": 4,
+                  "fulfilment_type": 4,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 8717,
+          "extinfo": {
+            "tier_index": [
+              3
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 12000000000,
+          "model_id": 168294488572,
+          "stock": 8717,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 1500,
+          "is_lowest_price_at_shopee": false
+        },
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb + Arm Gold",
+          "promotion_id": 557757019734016,
+          "price": 10400000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 8845,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 8845,
+          "extinfo": {
+            "tier_index": [
+              4
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 12000000000,
+          "model_id": 168294488573,
+          "stock": 8845,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 381,
+          "is_lowest_price_at_shopee": false
+        },
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb+FuzionHitam",
+          "promotion_id": 10000018380,
+          "price": 8500000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 324
+            },
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 6,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 6,
+          "extinfo": {
+            "tier_index": [
+              5
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 12000000000,
+          "model_id": 168294488574,
+          "stock": 6,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 6653,
+          "is_lowest_price_at_shopee": true
+        },
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb + Arm Merah",
+          "promotion_id": 557757019734016,
+          "price": 10400000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 8635,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                },
+                {
+                  "location_id": "ID182SOC",
+                  "available_stock": 1,
+                  "fulfilment_type": 4,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 8636,
+          "extinfo": {
+            "tier_index": [
+              0
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 12000000000,
+          "model_id": 168294488575,
+          "stock": 8636,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 1949,
+          "is_lowest_price_at_shopee": false
+        },
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb +Arm Silver",
+          "promotion_id": 557757019734016,
+          "price": 10400000000,
+          "price_stocks": [
+            {
+              "allocated_stock": null,
+              "stock_breakdown_by_location": null,
+              "promotion_type": 301
+            },
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 8571,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                },
+                {
+                  "location_id": "ID182SOC",
+                  "available_stock": 3,
+                  "fulfilment_type": 4,
+                  "address_id": 0,
+                  "allocated_stock": null
+                },
+                {
+                  "location_id": "ID35SOC",
+                  "available_stock": 2,
+                  "fulfilment_type": 4,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 8576,
+          "extinfo": {
+            "tier_index": [
+              1
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 12000000000,
+          "model_id": 168294488570,
+          "stock": 8576,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 2266,
+          "is_lowest_price_at_shopee": false
+        },
+        {
+          "item_id": 28754672975,
+          "status": 1,
+          "current_promotion_reserved_stock": 0,
+          "name": "Grip Rcb + Arm Hitam",
+          "promotion_id": 0,
+          "price": 13000000000,
+          "price_stocks": [
+            {
+              "allocated_stock": 0,
+              "stock_breakdown_by_location": [
+                {
+                  "location_id": "IDZ",
+                  "available_stock": 1,
+                  "fulfilment_type": 2,
+                  "address_id": 0,
+                  "allocated_stock": null
+                }
+              ],
+              "promotion_type": 0
+            }
+          ],
+          "current_promotion_has_reserve_stock": false,
+          "normal_stock": 1,
+          "extinfo": {
+            "tier_index": [
+              2
+            ],
+            "is_pre_order": false,
+            "estimated_days": 2
+          },
+          "price_before_discount": 0,
+          "model_id": 168294488571,
+          "stock": 1,
+          "has_gimmick_tag": false,
+          "key_measurement": null,
+          "sold": 3478,
+          "is_lowest_price_at_shopee": false
+        }
+      ],
+      "tier_variations": [
+        {
+          "name": "Warna",
+          "options": [
+            "Grip Rcb + Arm Merah",
+            "Grip Rcb +Arm Silver",
+            "Grip Rcb + Arm Hitam",
+            "Grip Rcb + Arm Biru",
+            "Grip Rcb + Arm Gold",
+            "Grip Rcb+FuzionHitam"
+          ],
+          "images": [
+            "id-11134207-7r98q-lyo7h02p2gtpbb",
+            "id-11134207-7r98w-lyo7h02p2gaw50",
+            "id-11134207-7r98r-lyo7h02p2gvc94",
+            "id-11134207-7r98t-lyo7h02p2gq04e",
+            "id-11134207-7r990-lyo7h02p2gpsa2",
+            "id-11134207-7r98v-lyo7h02p2gcl29"
+          ],
+          "properties": null,
+          "type": 0,
+          "summed_stocks": null,
+          "display_indicators": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "size_chart": null,
+      "size_chart_info": null,
+      "welcome_package_type": 0,
+      "is_free_gift": false,
+      "deep_discount": null,
+      "is_low_price_eligible": null,
+      "bundle_deal_info": null,
+      "add_on_deal_info": null,
+      "shipping_icon_type": 0,
+      "badge_icon_type": 0,
+      "spl_info": {
+        "installment_info": null,
+        "user_credit_info": null,
+        "channel_id": null,
+        "show_spl": true,
+        "show_spl_lite": null,
+        "spl_xtra": null,
+        "spl_motorcycle_loan": null
+      },
+      "estimated_days": 2,
+      "is_pre_order": false,
+      "is_free_shipping": false,
+      "overall_purchase_limit": null,
+      "min_purchase_limit": 0,
+      "is_hide_stock": false,
+      "stock": 34781,
+      "normal_stock": 34781,
+      "current_promotion_reserved_stock": 0,
+      "can_use_wholesale": false,
+      "wholesale_tier_list": [],
+      "price": 8500000000,
+      "raw_discount": 0,
+      "hidden_price_display": null,
+      "price_min": 8500000000,
+      "price_max": 13000000000,
+      "price_before_discount": 12000000000,
+      "price_min_before_discount": 12000000000,
+      "price_max_before_discount": 13000000000,
+      "other_stock": 1,
+      "discount_stock": 34780,
+      "current_promotion_has_reserve_stock": false,
+      "complaint_policy": null,
+      "show_recycling_info": null,
+      "should_show_amp_tag": true,
+      "all_models_has_pre_order": false,
+      "is_item_inherited": false,
+      "max_quantity": 34781
+    },
+    "account": {
+      "user_id": 264211770,
+      "is_new_user": false,
+      "default_address": {
+        "state": "JAWA BARAT",
+        "city": "KOTA BANDUNG",
+        "district": "BABAKAN CIPARAY",
+        "town": "",
+        "zip_code": "40223",
+        "address": null,
+        "region": null,
+        "longitude": null,
+        "latitude": null
+      },
+      "adult_consent": 0,
+      "birth_timestamp": 1142528400
+    },
+    "product_images": {
+      "video": {
+        "video_id": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16000081723065116.mp4",
+        "thumb_url": "id-11110107-7r98u-lyo7fg1t0vw849",
+        "duration": 20,
+        "version": 2,
+        "vid": "id-11110107-6ke18-lyo7fdcyy8mg8b",
+        "formats": [
+          {
+            "format": 1600322,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003221723077366.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003221723077366.mp4",
+            "width": 360,
+            "height": 640
+          },
+          {
+            "format": 1600408,
+            "defn": "V360P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004081723250236.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004081723250236.mp4",
+            "width": 360,
+            "height": 640
+          },
+          {
+            "format": 1600673,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006731724123688.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006731724123688.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600671,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006711723077366.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006711723077366.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600265,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002651723250178.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002651723250178.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600409,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004091723250236.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004091723250236.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600659,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006591723250236.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006591723250236.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600266,
+            "defn": "V540P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002661723250192.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002661723250192.mp4",
+            "width": 540,
+            "height": 960
+          },
+          {
+            "format": 1600008,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16000081723065116.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16000081723065116.mp4",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "format": 1600325,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003251723077366.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003251723077366.mp4",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "format": 1600324,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003241723077366.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003241723077366.mp4",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "format": 1600267,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002671723250192.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002671723250192.mp4",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "format": 1600410,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004101723250236.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004101723250236.mp4",
+            "width": 720,
+            "height": 1280
+          },
+          {
+            "format": 1600411,
+            "defn": "V720P",
+            "profile": "MP4",
+            "path": "api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004111723250236.mp4",
+            "url": "https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004111723250236.mp4",
+            "width": 720,
+            "height": 1280
+          }
+        ],
+        "default_format": {
+          "format": 1600323,
+          "defn": "V540P",
+          "profile": "MP4",
+          "path": "",
+          "url": "https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.default.mp4",
+          "width": 540,
+          "height": 960
+        },
+        "mms_data": "{\"vid\":\"id-11110107-6ke18-lyo7fdcyy8mg8b\",\"biz\":107,\"duration\":20299,\"create_time\":1723065115,\"update_time\":1730359515,\"serviceID\":2,\"cover\":\"https://down-aka-sg.img.susercontent.com/id-11110107-7r98u-lyo7fg1t0vw849\",\"formats\":[{\"format\":1600322,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003221723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003221723077366.mp4\",\"width\":360,\"height\":640,\"bitrate\":212787,\"abitrate\":62295,\"duration\":20330,\"size\":714636,\"fps\":25.04931,\"update_time\":1723077371,\"codec\":\"H264\"},{\"format\":1600408,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004081723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004081723250236.mp4\",\"width\":360,\"height\":640,\"bitrate\":220588,\"abitrate\":62335,\"duration\":20318,\"size\":735938,\"fps\":25.04931,\"update_time\":1723250242,\"codec\":\"H264\"},{\"format\":1600673,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006731724123688.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006731724123688.mp4\",\"width\":540,\"height\":960,\"bitrate\":822719,\"abitrate\":62335,\"duration\":20318,\"size\":2262289,\"fps\":25.04931,\"update_time\":1724123697,\"codec\":\"H264\"},{\"format\":1600671,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006711723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006711723077366.mp4\",\"width\":540,\"height\":960,\"bitrate\":457877,\"abitrate\":62295,\"duration\":20330,\"size\":1335880,\"fps\":25.04931,\"update_time\":1723077375,\"codec\":\"H264\"},{\"format\":1600265,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002651723250178.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002651723250178.mp4\",\"width\":540,\"height\":960,\"bitrate\":817907,\"abitrate\":62335,\"duration\":20318,\"size\":2250089,\"fps\":25.04931,\"update_time\":1723250191,\"codec\":\"H264\"},{\"format\":1600409,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004091723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004091723250236.mp4\",\"width\":540,\"height\":960,\"bitrate\":522605,\"abitrate\":62335,\"duration\":20318,\"size\":1501454,\"fps\":25.04931,\"update_time\":1723250247,\"codec\":\"H264\"},{\"format\":1600659,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006591723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16006591723250236.mp4\",\"width\":540,\"height\":960,\"bitrate\":1037816,\"abitrate\":62335,\"duration\":20318,\"size\":2807514,\"fps\":25.04931,\"update_time\":1723250248,\"codec\":\"H264\"},{\"format\":1600266,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002661723250192.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002661723250192.mp4\",\"width\":540,\"height\":960,\"bitrate\":462237,\"abitrate\":62335,\"duration\":20318,\"size\":1348467,\"fps\":25.04931,\"update_time\":1723250201,\"codec\":\"H264\"},{\"format\":1600008,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16000081723065116.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16000081723065116.mp4\",\"width\":720,\"height\":1280,\"bitrate\":994537,\"abitrate\":62335,\"duration\":20318,\"size\":2697853,\"fps\":25.04931,\"update_time\":1723065132,\"codec\":\"H264\"},{\"format\":1600325,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003251723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003251723077366.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1001943,\"abitrate\":62295,\"duration\":20330,\"size\":2715126,\"fps\":25.04931,\"update_time\":1723077384,\"codec\":\"H264\"},{\"format\":1600324,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003241723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003241723077366.mp4\",\"width\":720,\"height\":1280,\"bitrate\":776598,\"abitrate\":62295,\"duration\":20330,\"size\":2143877,\"fps\":25.04931,\"update_time\":1723077381,\"codec\":\"H264\"},{\"format\":1600267,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002671723250192.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002671723250192.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1081624,\"abitrate\":62335,\"duration\":20318,\"size\":2924981,\"fps\":30.05033,\"update_time\":1723250209,\"codec\":\"H264\"},{\"format\":1600410,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004101723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004101723250236.mp4\",\"width\":720,\"height\":1280,\"bitrate\":734156,\"abitrate\":62335,\"duration\":20318,\"size\":2037812,\"fps\":25.04931,\"update_time\":1723250248,\"codec\":\"H264\"},{\"format\":1600411,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004111723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004111723250236.mp4\",\"width\":720,\"height\":1280,\"bitrate\":1537642,\"abitrate\":62335,\"duration\":20318,\"size\":4080189,\"fps\":30.05033,\"update_time\":1723250255,\"codec\":\"H264\"}],\"extend_formats\":{\"H265\":[{\"format\":1600315,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003151723077352.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003151723077352.mp4\",\"width\":360,\"height\":640,\"bitrate\":209968,\"abitrate\":62335,\"duration\":20318,\"size\":712003,\"fps\":25.04931,\"update_time\":1723077366,\"codec\":\"H265\"},{\"format\":1600412,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004121723250223.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004121723250223.mp4\",\"width\":360,\"height\":640,\"bitrate\":183678,\"abitrate\":62335,\"duration\":20318,\"size\":645341,\"fps\":25.04931,\"update_time\":1723250235,\"codec\":\"H265\"},{\"format\":1600246,\"defn\":\"V360P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002461727145836.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002461727145836.mp4\",\"width\":360,\"height\":640,\"bitrate\":179288,\"abitrate\":32292,\"duration\":20319,\"size\":554701,\"fps\":25,\"update_time\":1727145845,\"codec\":\"H265\"},{\"format\":1600307,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003071723076431.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003071723076431.mp4\",\"width\":540,\"height\":960,\"bitrate\":489661,\"abitrate\":62335,\"duration\":20318,\"size\":1420995,\"fps\":25.04931,\"update_time\":1723076454,\"codec\":\"H265\"},{\"format\":1600316,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003161723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003161723077366.mp4\",\"width\":540,\"height\":960,\"bitrate\":380094,\"abitrate\":62335,\"duration\":20318,\"size\":1143241,\"fps\":25.04931,\"update_time\":1723077389,\"codec\":\"H265\"},{\"format\":1600261,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002611734556350.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002611734556350.mp4\",\"width\":540,\"height\":960,\"bitrate\":286491,\"abitrate\":32292,\"duration\":20317,\"size\":825511,\"fps\":25,\"update_time\":1734556363,\"codec\":\"H265\"},{\"format\":1600413,\"defn\":\"V540P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004131723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004131723250236.mp4\",\"width\":540,\"height\":960,\"bitrate\":285235,\"abitrate\":62335,\"duration\":20318,\"size\":902775,\"fps\":25.04931,\"update_time\":1723250256,\"codec\":\"H265\"},{\"format\":1600309,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003091723065147.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003091723065147.mp4\",\"width\":720,\"height\":1280,\"bitrate\":800110,\"abitrate\":62335,\"duration\":20318,\"size\":2208010,\"fps\":25.04931,\"update_time\":1723065182,\"codec\":\"H265\"},{\"format\":1600317,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003171723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003171723077366.mp4\",\"width\":720,\"height\":1280,\"bitrate\":535809,\"abitrate\":62335,\"duration\":20318,\"size\":1537994,\"fps\":25.04931,\"update_time\":1723077407,\"codec\":\"H265\"},{\"format\":1600318,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003181723077366.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16003181723077366.mp4\",\"width\":720,\"height\":1280,\"bitrate\":827242,\"abitrate\":62335,\"duration\":20318,\"size\":2276776,\"fps\":25.04931,\"update_time\":1723077401,\"codec\":\"H265\"},{\"format\":1600415,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004151723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004151723250236.mp4\",\"width\":720,\"height\":1280,\"bitrate\":757658,\"abitrate\":62335,\"duration\":20318,\"size\":2107397,\"fps\":30.05033,\"update_time\":1723250273,\"codec\":\"H265\"},{\"format\":1600260,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002601734556350.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002601734556350.mp4\",\"width\":720,\"height\":1280,\"bitrate\":687843,\"abitrate\":48384,\"duration\":20317,\"size\":1889593,\"fps\":30.00099,\"update_time\":1734556378,\"codec\":\"H265\"},{\"format\":1600262,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002621734556350.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16002621734556350.mp4\",\"width\":720,\"height\":1280,\"bitrate\":687842,\"abitrate\":62567,\"duration\":20293,\"size\":1925437,\"fps\":30.00099,\"update_time\":1734556386,\"codec\":\"H265\"},{\"format\":1600414,\"defn\":\"V720P\",\"profile\":\"MP4\",\"path\":\"api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004141723250236.mp4\",\"url\":\"https://down-aka-sg.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.16004141723250236.mp4\",\"width\":720,\"height\":1280,\"bitrate\":500407,\"abitrate\":62335,\"duration\":20318,\"size\":1448257,\"fps\":25.04931,\"update_time\":1723250270,\"codec\":\"H265\"}]},\"default_format\":{\"format\":1600323,\"defn\":\"V540P\",\"profile\":\"MP4\",\"url\":\"https://mms.vod.susercontent.com/api/v4/11110107/mms/id-11110107-6ke18-lyo7fdcyy8mg8b.default.mp4\",\"width\":540,\"height\":960,\"bitrate\":458608,\"abitrate\":62295,\"duration\":20330,\"size\":1337733,\"fps\":25.04931,\"update_time\":1723065155,\"codec\":\"H264\"}}",
+        "item_cover": null
+      },
+      "images": [
+        "id-11134207-7r98o-lyo7h06kwrns2c",
+        "id-11134207-7r98o-lyo7h06ax6owbb",
+        "id-11134207-7r98y-lyo7h02p129949",
+        "id-11134207-7r98t-lyo7h02p2gq04e",
+        "id-11134207-7r98q-lyo7h02p11s5f1",
+        "id-11134207-7r991-lyo7h02p125c76",
+        "id-11134207-7r98y-lyo7h06avs4gb9",
+        "id-11134207-7r98t-lyo7h06kvd3c96"
+      ],
+      "first_tier_variations": [
+        {
+          "name": "Grip Rcb + Arm Merah",
+          "image": "id-11134207-7r98q-lyo7h02p2gtpbb",
+          "summed_stock": 8636,
+          "display_indicator": 0
+        },
+        {
+          "name": "Grip Rcb +Arm Silver",
+          "image": "id-11134207-7r98w-lyo7h02p2gaw50",
+          "summed_stock": 8576,
+          "display_indicator": 0
+        },
+        {
+          "name": "Grip Rcb + Arm Hitam",
+          "image": "id-11134207-7r98r-lyo7h02p2gvc94",
+          "summed_stock": 1,
+          "display_indicator": 0
+        },
+        {
+          "name": "Grip Rcb + Arm Biru",
+          "image": "id-11134207-7r98t-lyo7h02p2gq04e",
+          "summed_stock": 8717,
+          "display_indicator": 0
+        },
+        {
+          "name": "Grip Rcb + Arm Gold",
+          "image": "id-11134207-7r990-lyo7h02p2gpsa2",
+          "summed_stock": 8845,
+          "display_indicator": 0
+        },
+        {
+          "name": "Grip Rcb+FuzionHitam",
+          "image": "id-11134207-7r98v-lyo7h02p2gcl29",
+          "summed_stock": 6,
+          "display_indicator": 0
+        }
+      ],
+      "sorted_variation_image_index_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "overlay": null,
+      "makeup_preview": null,
+      "abnormal_status": "",
+      "promotion_images": [],
+      "long_images": null,
+      "shopee_video_info_list": [],
+      "shopee_video_rcmd_info": null,
+      "shopee_video_req_id": null,
+      "skincam": null,
+      "pdp_top_info_list": null,
+      "has_long_image": null
+    },
+    "product_price": {
+      "discount": 29,
+      "installment_info": null,
+      "spl_installment_info": null,
+      "pack_size": "",
+      "hide_price": false,
+      "price": {
+        "single_value": -1,
+        "range_min": 8500000000,
+        "range_max": 13000000000,
+        "price_mask": null
+      },
+      "price_before_discount": {
+        "single_value": -1,
+        "range_min": 12000000000,
+        "range_max": 13000000000,
+        "price_mask": null
+      },
+      "presale_price": null,
+      "lowest_past_price": null,
+      "labels": null,
+      "hide_discount": false,
+      "discount_text": "-29%",
+      "show_final_price_indicator": false,
+      "final_price_vouchers": null
+    },
+    "flash_sale": null,
+    "flash_sale_preview": null,
+    "deep_discount": null,
+    "exclusive_price": null,
+    "exclusive_price_cta": null,
+    "product_meta": {
+      "show_lowest_price_guarantee": null,
+      "show_original_guarantee": null,
+      "show_best_price_guarantee": false,
+      "show_official_shop_label_in_title": false,
+      "show_shopee_verified_label": true,
+      "show_lowest_installment_guarantee": null,
+      "hide_sharing_button": false,
+      "hide_sold_count": false
+    },
+    "product_review": {
+      "rating_star": 4.8074237840353735,
+      "rating_count": [
+        8594,
+        48,
+        47,
+        199,
+        924,
+        7376
+      ],
+      "total_rating_count": 8594,
+      "historical_sold": 16227,
+      "global_sold": 16294,
+      "liked": false,
+      "liked_count": 7822,
+      "cmt_count": 8186,
+      "should_move_ratings_above": null,
+      "review_rcmd_exp_group": null,
+      "display_global_sold": false,
+      "hide_rating": false,
+      "hide_buyer_gallery": false,
+      "hide_reviews": false,
+      "hide_other_product_reviews_in_shop": false
+    },
+    "promotion_info": {
+      "spl": null,
+      "spl_lite": null,
+      "installment": null,
+      "wholesale": null,
+      "insurance": null,
+      "item_installment_eligibility": {
+        "is_cc_installment_payment_eligible": false,
+        "is_non_cc_installment_payment_eligible": false
+      }
+    },
+    "age_gate": {
+      "kyc": null
+    },
+    "shipping_meta": {
+      "show_fufilled_by_shopee": false,
+      "show_cod": true,
+      "show_mart": false,
+      "show_next_day_delivery": false
+    },
+    "product_shipping": {
+      "free_shipping": {
+        "min_spend": null,
+        "has_fss": true
+      },
+      "shipping_fee_info": {
+        "ship_from_location": "",
+        "price": {
+          "single_value": 0,
+          "range_min": -1,
+          "range_max": -1,
+          "price_mask": null
+        },
+        "shipping_icon_type": 0,
+        "warning": null
+      },
+      "show_shipping_to": true,
+      "ungrouped_channel_infos": [
+        {
+          "channel_id": 8003,
+          "name": "Reguler",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1200000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1739338839,
+            "estimated_delivery_date_to": 1739618024,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 5,
+            "delay_message": null,
+            "is_fastest_edt_channel": true,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Garansi tiba: 12 - 15 Februari",
+            "formatted_edt_text": [
+              {
+                "template": "Garansi tiba: 12 - 15 Februari",
+                "format": [
+                  2
+                ],
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": "#26AA99"
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "regular",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 8005,
+          "name": "Hemat",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": {
+            "single_value": 1100000000,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "channel_delivery_info": {
+            "has_edt": true,
+            "display_mode": "edt_by_date",
+            "estimated_delivery_date_from": 1739344438,
+            "estimated_delivery_date_to": 1739630198,
+            "estimated_delivery_time_min": 2,
+            "estimated_delivery_time_max": 5,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": true,
+            "edt_text": "Garansi tiba: 12 - 15 Februari",
+            "formatted_edt_text": [
+              {
+                "template": "Garansi tiba: 12 - 15 Februari",
+                "format": null,
+                "attributes": null,
+                "text_color": null,
+                "text_hex_color": null
+              }
+            ]
+          },
+          "channel_promotion_infos": [],
+          "warning": null,
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "regular",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": {
+            "type": 1,
+            "amount": 1000000000,
+            "is_guaranteed_edt": true,
+            "compensation_amount": null,
+            "text": null
+          },
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 8006,
+          "name": "Kargo",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": false,
+            "display_mode": null,
+            "estimated_delivery_date_from": null,
+            "estimated_delivery_date_to": null,
+            "estimated_delivery_time_min": null,
+            "estimated_delivery_time_max": null,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": null,
+            "edt_text": null,
+            "formatted_edt_text": null
+          },
+          "channel_promotion_infos": null,
+          "warning": {
+            "type": "shipping_option_not_supported",
+            "warning_msg": "Jasa kirim tidak didukung"
+          },
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "regular_cargo",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        },
+        {
+          "channel_id": 8000,
+          "name": "Instant",
+          "price": {
+            "single_value": 0,
+            "range_min": -1,
+            "range_max": -1,
+            "price_mask": null
+          },
+          "price_before_discount": null,
+          "channel_delivery_info": {
+            "has_edt": false,
+            "display_mode": null,
+            "estimated_delivery_date_from": null,
+            "estimated_delivery_date_to": null,
+            "estimated_delivery_time_min": null,
+            "estimated_delivery_time_max": null,
+            "delay_message": null,
+            "is_fastest_edt_channel": false,
+            "sla_message": "",
+            "show_edt": null,
+            "edt_text": null,
+            "formatted_edt_text": null
+          },
+          "channel_promotion_infos": null,
+          "warning": {
+            "type": "unsupported_address",
+            "warning_msg": "Layanan Tidak Tersedia"
+          },
+          "shipping_icon_type": null,
+          "lowest_bpsf_promotion_rule": null,
+          "service_type_info": "instant",
+          "is_integrated_channel": true,
+          "late_delivery_compensation": null,
+          "is_sst_included": false,
+          "display_text": {
+            "late_delivery_compensation": null,
+            "direct_delivery": null,
+            "fulfilled_by_shopee": null,
+            "spx_instant_delivery": null
+          },
+          "rule_type": 0,
+          "is_xdd_channel": false,
+          "show_shopee_plus_icon": false,
+          "xdd_value": null
+        }
+      ],
+      "grouped_channel_infos_by_service_type": [
+        {
+          "name": "Ambil di Tempat",
+          "channel_infos": [
+            {
+              "channel_id": 80024,
+              "name": "J&T Jemari",
+              "price": {
+                "single_value": 0,
+                "range_min": -1,
+                "range_max": -1,
+                "price_mask": null
+              },
+              "price_before_discount": null,
+              "channel_delivery_info": {
+                "has_edt": false,
+                "display_mode": null,
+                "estimated_delivery_date_from": null,
+                "estimated_delivery_date_to": null,
+                "estimated_delivery_time_min": null,
+                "estimated_delivery_time_max": null,
+                "delay_message": null,
+                "is_fastest_edt_channel": false,
+                "sla_message": "",
+                "show_edt": null,
+                "edt_text": null,
+                "formatted_edt_text": null
+              },
+              "channel_promotion_infos": null,
+              "warning": {
+                "type": "unsupported_address",
+                "warning_msg": "Layanan Tidak Tersedia"
+              },
+              "shipping_icon_type": null,
+              "lowest_bpsf_promotion_rule": null,
+              "service_type_info": "self_collection",
+              "is_integrated_channel": true,
+              "late_delivery_compensation": null,
+              "is_sst_included": false,
+              "display_text": {
+                "late_delivery_compensation": null,
+                "direct_delivery": null,
+                "fulfilled_by_shopee": null,
+                "spx_instant_delivery": null
+              },
+              "rule_type": 0,
+              "is_xdd_channel": false,
+              "show_shopee_plus_icon": false,
+              "xdd_value": null
+            }
+          ]
+        }
+      ],
+      "also_available_channel_name": null,
+      "pre_selected_shipping_channel": null,
+      "show_grouped_channel_first": null,
+      "is_item_with_price_range": true,
+      "also_available_channel_icon_type": null,
+      "pre_order_text": "",
+      "selected_late_delivery_compensation_for_drawer": {
+        "type": 1,
+        "amount": null,
+        "is_guaranteed_edt": true,
+        "compensation_amount": {
+          "value": 1000000000
+        },
+        "text": "Dapatkan Voucher s/d {compensation_amount} jika pesanan terlambat."
+      },
+      "shipping_info_text": {
+        "text_template": null,
+        "shipping_fee": null,
+        "edt_from": null,
+        "edt_to": null,
+        "show_shipping_fee_suffix": false,
+        "formatted_text": null
+      }
+    },
+    "shop_vouchers": [],
+    "free_return": null,
+    "coin_info": {
+      "spend_cash_unit": 100000,
+      "coin_earn_items": [],
+      "coin_earn_label": null
+    },
+    "product_attributes": {
+      "attrs": [
+        {
+          "name": "Stok",
+          "value": "34781",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 7
+        },
+        {
+          "name": "Merek",
+          "value": "RCB",
+          "id": null,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": "/search?brands=2244710",
+          "brand_id": 2244710,
+          "full_url": "https://shopee.co.id/search?brands=2244710",
+          "type": 1
+        },
+        {
+          "name": "Produk Custom",
+          "value": "Ya",
+          "id": 101219,
+          "is_timestamp": null,
+          "brand_option": null,
+          "val_id": null,
+          "url": null,
+          "brand_id": null,
+          "full_url": null,
+          "type": 5
+        }
+      ],
+      "categories": [
+        {
+          "catid": 11043660,
+          "display_name": "Otomotif",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11043735,
+          "display_name": "Aksesoris Sepeda Motor",
+          "no_sub": false,
+          "is_default_subcat": false
+        },
+        {
+          "catid": 11043746,
+          "display_name": "Aksesoris Sepeda Motor Lainnya",
+          "no_sub": true,
+          "is_default_subcat": false
+        }
+      ],
+      "related_items": []
+    },
+    "shop_detailed": {
+      "shopid": 574569274,
+      "userid": 574588859,
+      "last_active_time": 1739182007,
+      "vacation": false,
+      "place": null,
+      "account": {
+        "portrait": "id-11134233-7r98q-lsvny6cfjo6s35",
+        "username": "levimotoshop",
+        "status": 1
+      },
+      "is_shopee_verified": true,
+      "is_preferred_plus_seller": true,
+      "is_official_shop": false,
+      "shop_location": null,
+      "item_count": 209,
+      "rating_star": 4.761639,
+      "response_rate": 98,
+      "session_info": {
+        "is_show": true,
+        "session_id": 117730964,
+        "view_count": 2,
+        "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-3216423174510592-117730964_spexsd.flv?auditkey=1.0~-baCWzhrroLDbSWdLzt_NqAg1Sver_PgQzu_lV4YHzMTCjcjczTk7CUBLlKwZFyYD9yi1dwk1x4wLH2z7s5TryBJ9afq0RD8Bw3RDdcmKZ8~496e9339b56b84d4aad4f05c5cce66b790207f550813d8c701fceb50d6b1471a&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_25727%2Cnormal",
+        "preview_image": "id-11134104-7rase-m3ai9nlqomxb0e",
+        "streamer_user_id": 1409321454,
+        "streamer_shop_id": 1408561227,
+        "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000021458932218751476},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0076100025326013565|cvr=0.00281846197322011,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1409321454,BND:livestream_pdp,ABTEST:0.a.000@314798",
+        "ads_info": null,
+        "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000021458932218751476},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0076100025326013565|cvr=0.00281846197322011,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1409321454,BND:livestream_pdp,ABTEST:0.a.000@314798"
+      },
+      "name": "LEVI Motoshop",
+      "ctime": 1635348333,
+      "response_time": 6386,
+      "follower_count": 9270,
+      "show_official_shop_label": false,
+      "rating_bad": 266,
+      "rating_good": 32539,
+      "rating_normal": 1233,
+      "session_infos": [
+        {
+          "is_show": true,
+          "session_id": 117730964,
+          "view_count": 2,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-3216423174510592-117730964_spexsd.flv?auditkey=1.0~-baCWzhrroLDbSWdLzt_NqAg1Sver_PgQzu_lV4YHzMTCjcjczTk7CUBLlKwZFyYD9yi1dwk1x4wLH2z7s5TryBJ9afq0RD8Bw3RDdcmKZ8~496e9339b56b84d4aad4f05c5cce66b790207f550813d8c701fceb50d6b1471a&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_25727%2Cnormal",
+          "preview_image": "id-11134104-7rase-m3ai9nlqomxb0e",
+          "streamer_user_id": 1409321454,
+          "streamer_shop_id": 1408561227,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000021458932218751476},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0076100025326013565|cvr=0.00281846197322011,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1409321454,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000021458932218751476},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0076100025326013565|cvr=0.00281846197322011,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1409321454,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117743831,
+          "view_count": 1,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-816772100655655-117743831_spexsd.flv?auditkey=1.0~35k47lWlaPbx_ELsdoDgDo_U_Fb8DEWtGT7_H1cckVDPY26ICTmdEQDwBlhWDfSljEmlYXYKxrNPtIqo23X02elP4ijFEQ-jCDEYq_TGuvs~eae6ce4f650cfbf57978ef94475ecb6f5b3f63b033d09fa1a7f876ec83a32089&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_72788%2Clow",
+          "preview_image": "id-11134104-7rasf-m60i05on89s2ae",
+          "streamer_user_id": 102407303,
+          "streamer_shop_id": 102405824,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000010918268314584922},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008074501529335976|cvr=0.0013510235585272312,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:102407303,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000010918268314584922},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008074501529335976|cvr=0.0013510235585272312,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:102407303,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117740589,
+          "view_count": 9,
+          "session_url": "https://play-hw-src.livestream.shopee.co.id/live/id-live-2620943680539136-117740589_spexsd.flv?auditkey=1.0~nNBQ718m_P4-wmAAI5moz7Ba0vVpHcvzK1fzMvYKXU40qWLUWrabT-AvzTRWdxgVBV7TKUyaFouPHmhi69rFtb0pPxrRQci2cpRGhY65YdM~1a32fc140220a814a0e3973ca15c84751eece40f3f00e345da50f3fccdca1025&cdnID=HUAWEI&expire_ts=1739184020&tcLevel=rank_23052%2Cnormal",
+          "preview_image": "id-11134104-7ras8-m13t23j1zuhrfe",
+          "streamer_user_id": 1082178051,
+          "streamer_shop_id": 1081930563,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000009035755124150865},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.010851876810193062|cvr=0.0008315677405335009,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1082178051,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000009035755124150865},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.010851876810193062|cvr=0.0008315677405335009,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1082178051,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117739313,
+          "view_count": 2,
+          "session_url": "https://play-tx-src.livestream.shopee.co.id/live/id-live-1316202999890432-117739313_spexsd.flv?auditkey=1.0~9-_kj699Nrqc-wQOLIMurz3FL73dMb3m8ruKOQorYrhyNs9hbd-xiVMU5bePYfwQ3YOrOFpHGrAJaZG9HbIRM2UzvTwimhn0NZXrtVL_VTc~85770896db4ba2bd5101c8ad03cfca26aa90c4bdef9f90f7d839cc352fb7d895&cdnID=TXCLOUD&expire_ts=1739184020&tcLevel=rank_110460%2Clow",
+          "preview_image": "id-11134104-7rasl-m5jruujhgjd27b",
+          "streamer_user_id": 406237172,
+          "streamer_shop_id": 406217595,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000007783006908928468},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00880351196974516|cvr=0.0008829793659970164,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:406237172,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000007783006908928468},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00880351196974516|cvr=0.0008829793659970164,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:406237172,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117612058,
+          "view_count": 2,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-1503697972235264-117612058_spexsd.flv?auditkey=1.0~Am-M_xC1hWN_r6Syx-8-2imMVIR3asoyySD8bDqiwVugvrZbV31eOCIIBwpTVSFQTFPtzwI48JkrnrgzQnClMAI5jXk6vY0TGyv368nuoTc~6eac50a8c0fd32f59f6f757db0f8775c3e1442c29c887a6482646bdd21716633&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_2363%2Cnormal",
+          "preview_image": "id-11134104-7r98p-louyfb1zkyml73",
+          "streamer_user_id": 499447892,
+          "streamer_shop_id": 499428314,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000007060383747558561},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0065904464572668076|cvr=0.001070143305696547,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:499447892,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000007060383747558561},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.0065904464572668076|cvr=0.001070143305696547,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:499447892,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117629163,
+          "view_count": 0,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-3031252211752448-117629163_spexsd.flv?auditkey=1.0~pZc3iQa2EAqCVFPuwa45RNdOdmOdnoS33XAmj-yV3xOmIeiZuhxTg77cPpqLfF0LybCx1V8oFdMe_9EtpOQiOR0yoBDPfecvSpUSczYBehI~e564d418cad071820c5c40037d786a8b4f037dc57466e9c5979c7adf780b4253&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_86874%2Clow",
+          "preview_image": "id-11134104-7rasd-m5s0aqcj4lozd7",
+          "streamer_user_id": 1306377419,
+          "streamer_shop_id": 1305818693,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.0000067829629378978175},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008494502864778042|cvr=0.0007974180625751615,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1306377419,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.0000067829629378978175},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008494502864778042|cvr=0.0007974180625751615,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1306377419,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117709439,
+          "view_count": 1,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-3181158056466432-117709439_spexsd.flv?auditkey=1.0~9_iVyKQkKkaHsoAWbomgoj_8xQ-7SDKAfK83m5LCrreNEJC8gIV4SozbBrgj7G6d9wplKGlps4DgjcrXi34IvwdQKJkwZSd_jcgUdGJ6_t4~c64f7a8262b153f42bc1260b3802eb0716aeffc7367cc8e2e6bda55ea2249d5f&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_85445%2Clow",
+          "preview_image": "id-11134104-7rash-m1tq3q579vp2d7",
+          "streamer_user_id": 1390491352,
+          "streamer_shop_id": 1389748392,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000006145214969209143},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00902735348790884|cvr=0.0006796573288738728,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1390491352,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000006145214969209143},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00902735348790884|cvr=0.0006796573288738728,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1390491352,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117726335,
+          "view_count": 1,
+          "session_url": "https://play-tx-src.livestream.shopee.co.id/live/id-live-3325716284362240-117726335_spexsd.flv?auditkey=1.0~GEjOkWh8K_bA2Quxnj8HQn8QdoCHzg1olUbzcqOYni51HPxYx9oH8GrV-78GbnqKKkj33N4xed9M5pJ-Hs2SJn5qNzo9eepNLZ7R_0rNOi4~5029013e92423ccb41da369563f71c3def31e79824deed52035e4a7ba4331a91&cdnID=TXCLOUD&expire_ts=1739184020&tcLevel=rank_79252%2Clow",
+          "preview_image": "id-11134104-7ras9-m5v8zpocje1f7f",
+          "streamer_user_id": 1469054067,
+          "streamer_shop_id": 1468283173,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000005009386639574808},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00883454829454422|cvr=0.000565958209335804,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1469054067,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000005009386639574808},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.00883454829454422|cvr=0.000565958209335804,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1469054067,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117730158,
+          "view_count": 1,
+          "session_url": "https://play-tx-src.livestream.shopee.co.id/live/id-live-1608580-117730158_spexsd.flv?auditkey=1.0~htR0CuSprOURNGO--3PEcYhm_doxJiLpfBgu_G10E3Z9G3x8V-UglWNrCNlspp7UNxNwJ7VWNDwdKtE0b49MB-K-da410rNbTm08AvRMqas~80261632feedf9a82e9b3ed8f0f88a02bf0616563c7a61f807217a13d88597d4&cdnID=TXCLOUD&expire_ts=1739184020&tcLevel=rank_111907%2Clow",
+          "preview_image": "id-11134104-7rasf-m5qs6lzny5ew71",
+          "streamer_user_id": 191294228,
+          "streamer_shop_id": 191291405,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.0000040240761758189375},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.011199449189007282|cvr=0.0003582781064324081,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:191294228,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.0000040240761758189375},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.011199449189007282|cvr=0.0003582781064324081,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:191294228,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        },
+        {
+          "is_show": true,
+          "session_id": 117729187,
+          "view_count": 1,
+          "session_url": "https://play-spe.livestream.shopee.co.id/live/id-live-3208273270855168-117729187_spexsd.flv?auditkey=1.0~SPdyDItqRsRe_a03FLql6VrFc1r2-JoIQwzEbSXFO4c6sjUqKG1SeQ9GJzmzZCFiXI4lg_UWFc9PLZXBAqIf9KmxjX24PE8O-RGJgtK5tD8~7167af792c155578b29c206a73d2ceb65c495c306c1ddee38099e51c70b89bff&cdnID=SHOPEE&expire_ts=1739184020&tcLevel=rank_111555%2Clow",
+          "preview_image": "id-11134104-7ras8-m2kumo45617k4a",
+          "streamer_user_id": 1405247667,
+          "streamer_shop_id": 1404488757,
+          "recommendation_info": "QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000003736957594517198},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008105279877781868|cvr=0.0004599953826982528,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1405247667,BND:livestream_pdp,ABTEST:0.a.000@314798",
+          "ads_info": null,
+          "track_id": "recommendation_info=QUE:STREAM-FLOAT-WINDOW-Item2Stream,QUES:STREAM-FLOAT-WINDOW-Item2Stream,QLVS:2,RNK:DAGlivestream-PdpModelUniRank:{SCORE:0.000003736957594517198},REQID:b11ba3af2dc6ea72f569b9ebacf2610a,RNKMOD:ctr=0.008105279877781868|cvr=0.0004599953826982528,EXTRA:RULES@155-598|72-347|249-1372|249-1331##CHAN@RCMD,SCENE:livestream_pdp,UAF:0,CHAN:RCMD,STIME:1739182220644,HOSTID:1405247667,BND:livestream_pdp,ABTEST:0.a.000@314798"
+        }
+      ],
+      "status": 1,
+      "is_individual_seller": null,
+      "is_mart": false,
+      "favorite_shop_info": null,
+      "is_3pf": false,
+      "sold_total": 70483,
+      "is_shopee_choice": false,
+      "is_high_end": false,
+      "banner": {
+        "shopee_choice": null
+      },
+      "authorized_brand": null,
+      "is_scs": false
+    },
+    "age_gate_control": null,
+    "abnormal_popup": null,
+    "return_on_spot": null,
+    "display_sections": {
+      "add_on_deal": null,
+      "bundle_deal": null,
+      "exclusive_price_label": null,
+      "free_return": null,
+      "coin": null,
+      "wholesale": null
+    },
+    "ineligible_ep": null,
+    "tax_disclaimer": null,
+    "alcohol_disclaimer": null,
+    "design_control": {
+      "use_new_revamp_first_screen": null,
+      "display_on_time_delivery_guarantee": true,
+      "disable_price_with_variation": false,
+      "display_direct_delivery": false,
+      "use_new_featured_video_revamp": null,
+      "first_screen_revamp_abtest_group": null,
+      "display_choice_customised_section": false,
+      "is_support_fbs_enabled": false,
+      "top_section_featured_video_ab_test_group": null,
+      "enable_ksp_config": null
+    },
+    "shopee_free_return": null,
+    "detail_level": 0,
+    "removed_fields": null,
+    "size_guide": null,
+    "designer_info": null,
+    "shipping_info": null,
+    "vehicle_compatibility_info": null,
+    "nea": null,
+    "button_group": {
+      "buy_with_voucher": null
+    },
+    "installment_drawer": {
+      "priority": [
+        0,
+        1
+      ],
+      "spl": null,
+      "bank": {
+        "channels": null
+      },
+      "credit_card": null
+    },
+    "ongoing_banner": null,
+    "teaser_banner": null,
+    "price_breakdown": null,
+    "membership_exclusive": null,
+    "membership_exclusive_teaser": null,
+    "service_entrance": {
+      "services": []
+    },
+    "service_drawer": {
+      "services": []
+    }
+  }
+}
